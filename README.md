@@ -1,0 +1,1 @@
+This npm package generates a random 10 digit ID from numbers and letters
